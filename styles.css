@@ -1,0 +1,39 @@
+h1{
+  color: #44bbff;
+  text-align: center;
+  padding-top: 10px;
+}
+nav{
+  background-color: #99ccff;
+  padding: 10px;
+  color: black;
+  display: block;
+  text-align: center;
+}
+p{
+  color: black;
+  display: block;
+  position: relative;
+  left: 20px;
+  margin-left: 210px;
+  margin-right: 210px;
+  background-color: #F4F4F4;
+  z-index: 0;
+  font-size: 20px;
+
+
+}
+img{
+  position: relative;
+  z-index: 1;
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin-top: 5px;
+  margin-left: 40px;
+  border-color: gray;
+  border-radius: 5px;
+  border-width: 10px;
+  border-style: solid;
+  display: block;
+}
